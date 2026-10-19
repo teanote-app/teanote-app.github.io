@@ -4,7 +4,7 @@
 //   ブラウザで確かめるときは、localhost で URL に ?store を付けるとストア版として動く（購入は試しの動作）
 
 const STORE_CONFIG = {
-  revenuecatKey: '',          // RevenueCat の Google Play 用の公開キー（goog_ で始まる）
+  revenuecatKey: 'goog_AHwPEXPLnZHhUjGPnwPuoitASyg',        // RevenueCat の Google Play 用の公開キー（goog_ で始まる）
   entitlement: 'pro',         // RevenueCat で作る権利（Entitlement）の名前
   amazonTag: '',              // Amazonアソシエイトのトラッキング ID（例：teanote-22）
   newsUrl: '',                // 商用で使えるニュースの JSON（取得元が決まるまで空＝ニュースタブを出さない）

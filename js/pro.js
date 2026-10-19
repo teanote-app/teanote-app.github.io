@@ -20,17 +20,26 @@ const Pro = (() => {
   const fromInfo = info => set(!!(info && info.entitlements && info.entitlements.active && info.entitlements.active[STORE_CONFIG.entitlement]));
   const purchases = () => Platform.plugin('Purchases');
 
-  async function init() {
-    const p = purchases();
-    if (!p || !STORE_CONFIG.revenuecatKey) return;
+  let ready = null; // configure の完了待ち
+
+  async function loadPackage(p) {
     try {
-      await p.configure({ apiKey: STORE_CONFIG.revenuecatKey });
-      p.addCustomerInfoUpdateListener(fromInfo);
-      fromInfo((await p.getCustomerInfo()).customerInfo);
       const offerings = await p.getOfferings();
       const cur = offerings && offerings.current;
       pkg = cur && (cur.monthly || cur.availablePackages[0]) || null;
+    } catch (e) { /* 取れなければ購入のときにもう一度試す */ }
+  }
+
+  async function init() {
+    const p = purchases();
+    if (!p || !STORE_CONFIG.revenuecatKey) return;
+    ready = p.configure({ apiKey: STORE_CONFIG.revenuecatKey });
+    try {
+      await ready;
+      p.addCustomerInfoUpdateListener(fromInfo);
+      fromInfo((await p.getCustomerInfo()).customerInfo);
     } catch (e) { /* オフラインなどは前回の状態のまま */ }
+    await loadPackage(p);
   }
 
   return {
@@ -48,6 +57,7 @@ const Pro = (() => {
         return true;
       }
       const p = purchases();
+      if (p && ready && !pkg) { try { await ready; } catch (e) { /* 下で知らせる */ } await loadPackage(p); }
       if (!p || !pkg) throw new Error('ストアに接続できませんでした。通信状態を確かめて、もう一度お試しください');
       try {
         const res = await p.purchasePackage({ aPackage: pkg });
