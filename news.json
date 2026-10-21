@@ -1,68 +1,138 @@
 {
-  "updatedAt": "2026-10-21T06:22:59Z",
+  "updatedAt": "2026-10-21T12:23:24Z",
   "source": "Google News",
   "items": [
     {
-      "title": "おいしく栄養補給、置き換えダイエットにも！紅茶の香り広がるミルクティー味が新登場",
-      "source": "CREA WEB",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pTUpaVGZwY29aUFFKa2p4ZUFFMEhrVXY3QUtZZDFoamlxOU5udUg3U3BwRWZHVzVKSVhHbTllMTNTSHZ3NExDLXppb3VBOExCQ0E1TUFTRUhzRGM5YS1jM0xUREc5ZWlUdm1HdVAzY3VoQQ?oc=5",
-      "publishedAt": "2026-10-21T06:20:01Z",
+      "title": "キリン「午後の紅茶」がクリスマスマーケットに限定ショップ。今年は横浜に加えて名古屋・仙台にも登場！",
+      "source": "グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvS25ydnRoZlh5OThKTWVidHd5Wk5rdzRyUHhUQktHd0RCOGlpRTF5VEV4UUd3dS03NmhFN2JZOU1zc0p5VkJ6OXNSdFBaei1jTFZSeHJlWEVkQXRkV0tUQTh1VGEybG1iclE?oc=5",
+      "publishedAt": "2026-10-21T11:44:08Z",
       "query": "紅茶"
     },
     {
       "title": "昨年大好評だった「午後の紅茶」のクリスマスマーケットが「横浜・名古屋・仙台」の全国３都市へ拡大決定！冬を彩る紅茶のおいしさにこだわったオリジナルティードリンクとフードを限定販売",
-      "source": "PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGaEM3LWp6RWRVUV9JSm9CdEZpVXVWeVVIX3NGSDBJMzIwV3REXzNzMlEtT1ZjWkloWXpGM3VnWDZxVFJyOVI2UzV3MF9WdVhqbkNhZ2lkMjNzODJvSmdpZWZzVkp5REtiaFE?oc=5",
-      "publishedAt": "2026-10-21T06:00:02Z",
+      "source": "福島民報デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lT0xFM1VfcUI1dndYOXJCLXNFZzhZOUFsaTFSSElmYUFHcHZGSUtERzF6TC0tRWtyeUs4M0dHZXdBV0twQkRPdUJqcE4zNWgxcGNGa0xrai1tTzFuU2NKTWRmdDNINHc?oc=5",
+      "publishedAt": "2026-10-21T11:05:12Z",
       "query": "紅茶"
     },
     {
-      "title": "【ウェスティンホテル大阪】「クリスマスアフタヌーンティー」11/11登場",
+      "title": "クスミティーの26年クリスマス、タロット着想アドベントカレンダー＆月の神秘表す紅茶「ブルームーン」",
+      "source": "千葉テレビ放送株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UTS1ZUGptYWJadzBPbU1rWVZuWXh3N0VTYjRsVGpKOHVZNlhTZTB0NWp5bGM2MjJycWRUOUY1Nm4xRE05STJtX1JpbUVEOVNJM3dKZzVJNHpxM25QM0Rr?oc=5",
+      "publishedAt": "2026-10-21T10:53:34Z",
+      "query": "紅茶"
+    },
+    {
+      "title": "【セミナーレポート：ウェルネスの最前線Ⅲ】 紅茶ポリフェノール最新研究を発表",
       "source": "PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LWTNNSVQ4VGE0dHB2bXAzNjRrRzFmS1BHU1JjVHg2UWtrYnRrZGlkMEM4cTVLRTQ2ODRCZ2VrS2JiRlRkaU9BTnUxRmpOQm5zVmhkVjhReFJfbXJGc2xrYTgtNE5ZaFozSWc?oc=5",
-      "publishedAt": "2026-10-21T06:00:02Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MdGFZaHJSMnNHVGFRQXhNZjN6dnhKMkMzc3VWNmdfR043MGlLYUZQcUxVb3VDbHRMc1B6OUNsTjVtQm44M0ZmOXpWeFljZFJ0elBfVWlJWVRqNmNBNXY1Y2FYT1hPQ0ZYalE?oc=5",
+      "publishedAt": "2026-10-21T10:30:01Z",
+      "query": "紅茶"
+    },
+    {
+      "title": "【W大阪】きらめく冬を彩るフェスティブダイニングを展開",
+      "source": "CREA WEB",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTNEVORjBPUXBpWjdaZEJpRVFEV2dMaFlId2dOUUNCQW05TVZXRnA2cVpaMDRPTjh1MF9xRzY1QklRVjhpZ05TdG0tVDBjLWdNVnB6NUUzQ1pQZWpTYzdXcmJJTGpwZnB4d05UTy0wRlM2dw?oc=5",
+      "publishedAt": "2026-10-21T10:17:26Z",
+      "query": "アフタヌーンティー"
+    },
+    {
+      "title": "「午後の紅茶」クリスマス着想の限定ミルクティー＆紅茶香るスイーツ、横浜・名古屋・仙台に",
+      "source": "千葉テレビ放送",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBncUVpRms5ZmNabTl3b0d5R3Z6NjhJWm5BS2hHZDV3dkQ4TEhIMlI0NTNEMjRsd2MyU3NOMmlFdkk0TUllaEdYZHhvQVhDVnZtY3NnS1Z5c0pLNTNKTlpV?oc=5",
+      "publishedAt": "2026-10-21T09:53:28Z",
+      "query": "紅茶"
+    },
+    {
+      "title": "スイーツ14種でサンタの物語！親子おそろいのクリスマスアフタヌーンティーが大阪に",
+      "source": "いこーよニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRZXZoaDloYWF5dUN6TndIdGYtYW5tejhpNW5EZGZfWURKUERjUzNfTGU4WHM0bHloeGpOeE1mNkFvY1dqcG44T2JGUUV4V1piNHc?oc=5",
+      "publishedAt": "2026-10-21T09:53:25Z",
+      "query": "アフタヌーンティー"
+    },
+    {
+      "title": "崎陽軒本店 ハロウィンアフタヌーンティーセット",
+      "source": "横浜市",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PN1M1S3R3a0tSNW43TndBczhMRXlhd19xaXQ1UTI3NWQwaEJ4UndaZ0dGTXNDUW9IWG0zZnJqYTFJLTB1eVoxcGUyak5PVThZMzU3QU8wbGY2VTZYVUlSdFRPbGlDRHlzTExSSkxqaXVPZGl3U3hCRDVWSVQ?oc=5",
+      "publishedAt": "2026-10-21T09:43:13Z",
+      "query": "アフタヌーンティー"
+    },
+    {
+      "title": "ザ ストリングス 表参道「深紅」のクリスマスアフタヌーンティー、苺パフェ＆ベリーのシュークリーム",
+      "source": "ファッションプレス",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LeHhPeUZWUm92ZnR6Qk5Tc2EtRFhsZk54cGhUTFdYWlQyVWdXc25WUFg1YlZYUnRsbkRXdXB1SFRQcHpYTXpwSDlQWUt0MUxONkM4?oc=5",
+      "publishedAt": "2026-10-21T09:25:00Z",
+      "query": "アフタヌーンティー"
+    },
+    {
+      "title": "ウェスティンホテル大阪26年クリスマスアフタヌーンティー、雪を降らせるツリーケーキ＆サンタマカロン",
+      "source": "ファッションプレス",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBieGVicVM0V2pOY1cxazl4bDFWVG92bUlLRGd0NFNSVzdicnRFMGVwcHJ2RFhtYlhtRUpXYVM1ZVJLd2IwZGRLX1NueUdhMTd6T3Bn?oc=5",
+      "publishedAt": "2026-10-21T09:15:00Z",
+      "query": "アフタヌーンティー"
+    },
+    {
+      "title": "【W大阪】きらめく冬を彩るフェスティブダイニングを展開 | マリオット・インターナショナルのプレスリリース",
+      "source": "PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jRFdqMHdSbU9kazNqY0pqeTA1MzZCWjl5dzc2bjBucW56VXEyU2pxRE80dXlEVU0weXhUMkl6aDYtVmN1YUtvQ1EybVhvdm5ja3YtdWw0Q3BrVXNTWHJPSUd3OTQ1MXBabnc?oc=5",
+      "publishedAt": "2026-10-21T09:00:17Z",
       "query": "アフタヌーンティー"
     },
     {
       "title": "ミニマル麻布台ヒルズ「チョコ尽くし」クリスマスアフタヌーンティー、濃厚オペラや“苺スープ付き”アイス",
-      "source": "ファッションプレス",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iY3RDSnctVFF2ZXdxNjI4b1E2eFN6dVNOTGk5amhwSEhvRThCUDVEZVFKTXM0MnlDajJkZkNxRkNGeGg0WmlJVVZ4RUMwbFhkX3Jn?oc=5",
+      "source": "千葉テレビ放送",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yNG84OFFac3lmT3h6WG5Ma1JlRWFhUjhndzkzamowdGMzQ0o0OWdyMWRESGVPYWFsUjRKR2MteHl6SUJRbC04eHA1NFdwVnFieGZDbnJoTG5XbDFTeEpj?oc=5",
+      "publishedAt": "2026-10-21T08:53:24Z",
+      "query": "アフタヌーンティー"
+    },
+    {
+      "title": "「午後の紅茶」のクリスマスマーケット開催へ！ ティードリンクや限定フードを提供",
+      "source": "クランクイン！",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5VS14b21pcDd4Nm9WYkZSak40b0Z2SDVSeWJENk9xZ0h4LUw4d3pndXFQQldidVNCR2EtRmo5UW1BOEdQNEhNNVZ4eERvODhnSENWaTAtOA?oc=5",
+      "publishedAt": "2026-10-21T08:30:00Z",
+      "query": "紅茶"
+    },
+    {
+      "title": "ホテルニューグランド「苺のアフタヌーンティー」ルージュモンブランや苺バターサンド",
+      "source": "千葉テレビ放送",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Cbm1EOWM4MmdwTERNYjdwMWtGSHRQYzhicnZTMzVrNXVDZ25QaUwxWHR1cVQ2RFlxaDB0bkV0RlY3ZVlBblAxbjcwTGdhSHpRdlQyY0hlRWpEbzBJYi1j?oc=5",
+      "publishedAt": "2026-10-21T07:53:27Z",
+      "query": "アフタヌーンティー"
+    },
+    {
+      "title": "【ウェスティンホテル大阪】「クリスマスアフタヌーンティー」11/11登場：時事ドットコム",
+      "source": "時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tNGlsS2k1b2ZIaXNmV0V0UlY2TjVUQmdWVGFYdnZudXBKU2htX0FQNVZNdTVCeC1zNUhvVmRXVV9WNUhvd21feDAzQU9DSVJmdFBESHdSbmc5VldKcDhxLUhCR1UybjIwQXgw?oc=5",
+      "publishedAt": "2026-10-21T07:16:00Z",
+      "query": "アフタヌーンティー"
+    },
+    {
+      "title": "猫好きさんは見逃せない！アフタヌーンティーに白ネコや黒ネコが勢ぞろい。〈ぬいぐるみ〉や〈チャーム〉はクリスマスプレゼントにもぴったり（LIMO）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56OVlYMWNod3RxYnZLbVJPeEsxQVNoWHFSODJrSWliaHhwT1NLYjVDOHFTLTZIQUctZW5iWHR6WUpzMXRDaWgwWTEzZldmcUIzRkhHeVc0d1RSbFUtZVl6WWsxa1pRRVpua0dBdWdVUjYyVmhkRFlCa0QwTVQ3WkU?oc=5",
+      "publishedAt": "2026-10-21T06:31:00Z",
+      "query": "アフタヌーンティー"
+    },
+    {
+      "title": "【ファミマ】「紅茶花伝」「ワンタン」などの無料券がたっぷり！ファミペイチャージでもらえるクーポンなどのお得企画も必見《10月20日スタート》（東京バーゲンマニア）",
+      "source": "ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BWmtVcHhfb0MyV1JfT0taakNxYjdQWDlxdlA1ZmhVdjBPakVLOFR0TDNKaTlESTU5VGR2ZFp4R2Q4WDRETzlXa3pFYlBVX1VlMTFDYmk5MVVwbHVENUpkaFRiU09RcDhGSTE3MVVRN1JjWndKUXFJ?oc=5",
+      "publishedAt": "2026-10-21T05:47:52Z",
+      "query": "紅茶"
+    },
+    {
+      "title": "おいしく栄養補給、置き換えダイエットにも！紅茶の香り広がるミルクティー味が新登場",
+      "source": "Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSTmQ1ZFNRQnppcXVoU3hqMDdIQzRhWTdyWE9mb0NDc1NEQ0xzMS1pRTR5Ym55RWFZWlhBSEw0UFMtS3E2NUM4WHJiMS1uT1A3SW9TMGZTOWlRSmR3cEF3SWthaUwxT2pLQXJnb01QQ0FJWlVVT1E?oc=5",
       "publishedAt": "2026-10-21T05:45:00Z",
-      "query": "アフタヌーンティー"
+      "query": "紅茶"
     },
     {
-      "title": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル",
-      "source": "sannichi.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40WkFkMU00RzJ1U0RWdzJfa3hEcDRjdUUxMV9xTEdfQ0cyVnViNEdvQ1JpQTdMdmpaa2NHR3NVemtCNV80cnRlXzVDQkVjYWpQVXAyWTZlSGRlQ2k0emFXRTB5cw?oc=5",
-      "publishedAt": "2026-10-21T05:29:44Z",
-      "query": "アフタヌーンティー"
-    },
-    {
-      "title": "【明治記念館】10/25(日)より、ラウンジ/ダイニング「kinkei」で秋の味覚を楽しむ「秋のAfternoon Tea」をご提供いたします！",
-      "source": "CREA WEB",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xeDlXQ29qYUFDdkNMenlfbDZBcmRXRk8wUzZSREZHbHpzWjlndmZUZHRYU0ZQaDNTOFNVX2hzWmIzUlZPbkM1djdBS1dLX25pbC03WGVxenA0SGVVR3pkVEZKX180NDRxSHh1Yk5rZ2F2dw?oc=5",
-      "publishedAt": "2026-10-21T05:20:24Z",
-      "query": "アフタヌーンティー"
-    },
-    {
-      "title": "【ホテルニューグランド】“苺”を心ゆくまで堪能！「苺のアフタヌーンティー」（ロビーラウンジ ラ・テラス）",
-      "source": "時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RcVJIcXlBaUJBcWlveS10Y2FGVno0bExQWmd0ejUxdkE4VGdBdXdORzhCU1VOLUQ5TEdocU1zc1h3NHJ6N1E0VDBaMmkxcm95OVI2ZWVqUDVkT29rMVJtWGU4bjV4cF9HUUlJ?oc=5",
-      "publishedAt": "2026-10-21T04:46:00Z",
-      "query": "アフタヌーンティー"
-    },
-    {
-      "title": "9層仕立てのオペラから、チョコレートが彩るセイボリー、チョコレートテイスティングまで。心ときめくチョコレート尽くしのクリスマス。Minimalのクリスマスアフタヌーンティー、12月よりスタート",
-      "source": "時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KOUhsaHg1QUVvWUdJSXV4YmVOd1VqOUZUdFJlVlhULXRFX09fMUI3dEVmQXkwRmFFV2QwazBxc2FERFh5TklHRzh6YlNDQTIxT0VuUkYtVE1vcmI5dVFMUVkxRkRCWGR0ZlBF?oc=5",
-      "publishedAt": "2026-10-21T04:16:00Z",
-      "query": "アフタヌーンティー"
-    },
-    {
-      "title": "【オリエンタルホテル 沖縄リゾート＆スパ】1日5組限定「初雪（はつゆき）のアフタヌーンティー」 11月1日(日)より期間限定で提供開始。",
-      "source": "時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zUFZlS29JTUE1NGhQa3VsbEdrMm9ocUdINGdhdnpYZl92d1Z5em96cHZucTVDRGM1cTA0YlFjWWw2dXNNSGYzUXdia0drT3VKX0c2aHdlemN2UHd5enFValg3VGV6LWlLdXFV?oc=5",
-      "publishedAt": "2026-10-21T04:16:00Z",
+      "title": "目の前で完成する\"ツリーアップルパイ\"が登場 京都食材を楽しむアフタヌーンティー「雪降る京からの贈り物」を11月14日より販売",
+      "source": "RBB TODAY",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hWnZpbk10N3BreHQtaVllSjBTZUVtaVJqaUFVaTdDN3hKaWNfalRTOHB3dHR6TXc3R0FMTjlvNG15V21HMm1CREZaSjZwa1lodF9PTUhRdXJyNWZpUkpYN0k5RzBTZkkzZkticld0MXRRdVN3amNEVg?oc=5",
+      "publishedAt": "2026-10-21T05:16:12Z",
       "query": "アフタヌーンティー"
     },
     {
@@ -87,17 +157,10 @@
       "query": "アフタヌーンティー"
     },
     {
-      "title": "目の前で完成する\"ツリーアップルパイ\"が登場 京都食材を楽しむアフタヌーンティー「雪降る京からの贈り物」を11月14日より販売",
+      "title": "【明治記念館】10/25(日)より、ラウンジ/ダイニング「kinkei」で秋の味覚を楽しむ「秋のAfternoon Tea」をご提供いたします！",
       "source": "PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wa0ZCV1RoSkJZQU5na1Q2NUNfMXYyMHZEQlljY0pBQVpHZEx1cE5URkJlemswQjBvZlRiVEFCU3NhaVNucEhia29yZjJ2TV9SLUZTcGpSSWR1MlVvZ1FsR2Qtc283MlZQS1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4aGdNOW12czZVemY5NE9nMzZ2aEpNaFRjdWV2STBLSGlYdVNRbXY1cy1TcEJZek9yc1hxVUNPNEM5QU1nRzljZEFMZ3czM3F2ZDVLNS1ZVXVnaFRJQ2xLOEhLcUc1YU1mZFE?oc=5",
       "publishedAt": "2026-10-21T03:00:02Z",
-      "query": "アフタヌーンティー"
-    },
-    {
-      "title": "「リーベルホテル大阪」14種のスイーツで絵本の世界を 表現するクリスマス限定アフタヌーンティーと、 聖夜を彩る特別ディナーコースが登場！",
-      "source": "アットプレス",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12VmE1aGdWTl9QVUhDQmdUa0Y0dGJWZ1dLQkZ1SFFoQ2c1My1iLWg3RFd4LW15alFCNVBmS3ZaWTN1Qjh2TmZ2WUVRR2JoUQ?oc=5",
-      "publishedAt": "2026-10-21T03:00:00Z",
       "query": "アフタヌーンティー"
     },
     {
@@ -113,27 +176,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BQm9TeklqQVE1OV9INmZWWVFzOVZFalRGejl2ejc2aEJrNVZYRXUtR0RWRlpDWUR3SFdyWWx4MzUyZzBQdkVkOXlVMjFuc29EWUNB?oc=5",
       "publishedAt": "2026-10-21T02:20:00Z",
       "query": "紅茶"
-    },
-    {
-      "title": "メルティーメリークリスマスアフタヌーンティー+スパークリングワイン付き(【土日祝限定】)",
-      "source": "オズモール",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wcUhYVkV2RllFWmtCOUcwLXRSNTR4SUo4Wm0xQUxZNWFaR2N1ODFVSV9NcDFEdTltQk5QSnZ0N25SQnpDWmdGX3YzZFBQdjhCaGE5d0ZSVzRtZ1JVblJ4QjlJOVU?oc=5",
-      "publishedAt": "2026-10-21T01:44:26Z",
-      "query": "アフタヌーンティー"
-    },
-    {
-      "title": "【1日4組限定】VILLAなのに、ここまでしてくれる 愛犬との滞在を格上げする「コンシェルジュステイプラン」が熱海に登場",
-      "source": "ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KZFhKaHJ3RlFWTG83YXBXaXNNRnNaQ0g0d05pUWNleENrT3J4TWFrMXd3ZUhtUDk0Z011RHpicV93Rkgtb2tZSmllbDZDRDc2bXV2MVZXTjQ1RWxyZWJKc3VjV19CZHNsZGl2RXhZMXBLTzVXbk56cW5wTQ?oc=5",
-      "publishedAt": "2026-10-21T01:36:22Z",
-      "query": "アフタヌーンティー"
-    },
-    {
-      "title": "ウェスティンホテル東京のクリスマスアフタヌーンティー。クリスマススイーツと冬の味覚のセイボリー - OZmall",
-      "source": "オズモール",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wckNqSkFRUHNOcXFwVVkyMTdTOEp3NnFkbllwRWZuVU5qQWlLNWlQRzdfeHpEd3k4RkZpZWlpRnZVWnZGZkRPWE9Hc1B0V1dIQmNmS1RyY2tDQ0NwVFpnYTd0cWMwVV95YVd6VFVVT04?oc=5",
-      "publishedAt": "2026-10-21T01:00:00Z",
-      "query": "アフタヌーンティー"
     },
     {
       "title": "ロンネフェルト・ティ・サロン・名古屋、11月15日「第15回紅茶フェスティバル in 尾張旭」の紅茶バザールに出店 ドイツ老舗ブランドの茶葉・ティーバッグを販売",
@@ -171,52 +213,10 @@
       "query": "紅茶"
     },
     {
-      "title": "英国王室御用達「トワイニング」紅茶のアドベントカレンダー、オーナメント煌めくブック型",
-      "source": "千葉テレビ放送株式会社",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tNGppaV9GajBxcnZQaEh4dXZIVnRQbmFQMGVwbjRHRXMzU2xUWkFQTkpDZy1uMERXd0toUWxjSC1HdTN0RXlvNWQxSzNKTFJjTktlTG1EMS1xUVpjM2Zr?oc=5",
-      "publishedAt": "2026-10-20T12:23:25Z",
-      "query": "紅茶"
-    },
-    {
-      "title": "”茶いっぺ”＋”ひと運動”で健康維持!?　茶カテキンに新たな可能性をみる研究結果とは",
-      "source": "Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQUE9idjN6Q1JNWFRGX2QwVnNoczA3dEFhRFhOelp6VzZzMXRVM1dtMDlRWlJsWXZNUkVycGRyT0Q2VEVKeGdUb0VUb0U0Zk5HWWtqbGk4dldQMDhMUTlYTXVQTUpTY3ps0gFuQVVfeXFMT1NOQlpWQW10ek5td18wdEsyQWVCckI1ZWFQZHZ3WThrMldHLTNtaUktVmFuc295aUxFUUJZV0FiV0ZnUEt3WDlUUDZXbFJuN1dfa1RYT0hOTGRXajQxbzk2X0UxMTVSNUxXNXVEckE?oc=5",
-      "publishedAt": "2026-10-20T10:47:00Z",
-      "query": "紅茶"
-    },
-    {
-      "title": "トワイニングのアドベントカレンダー2026、全24種の紅茶が10月20日より順次発売",
-      "source": "British Culture in Japan",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NNF9zU3Q0bGM3UTMycXBZR05qek9XZlN3X2pCeC0tR1piWlNpY3NFQWpsR1NYZzEyNVpDYkFzODFPQ1E2ZXRrUnRiNA?oc=5",
-      "publishedAt": "2026-10-20T10:17:41Z",
-      "query": "紅茶"
-    },
-    {
-      "title": "【10月20日開始】ファミマで1本買うと1本無料！紅茶花伝・お～いお茶が対象、引換は27日から|｜ほんみや宮崎",
-      "source": "ほんみや宮崎",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOFI5alh0MjJTNXF4VVhyQW9JUXdoM0FObHZMN1puOEhyclAyRXAyTXBTVGROcXI2OE9FNEhNR2tNaHNLWXdEcTgzekNHSEZfaHFoV0ZsOXJ4cWdybUpUZlRubFVsdW9VSGdyRDZTaHNlR0N6dUQ1N2M1dTNaTHo1b0FvVEdDZndWNGw0?oc=5",
-      "publishedAt": "2026-10-20T09:55:46Z",
-      "query": "紅茶"
-    },
-    {
-      "title": "【10月20日発売】ファミリーマート「Afternoon Tea監修 ファミマル 紅茶を愉しむミルクティー」",
-      "source": "えん食べ [グルメニュース]",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEeHhRVW5LaERjQ3c0S09OYy1FQnVVSmowajBKMEdyRFF5dDZra0VvbW8waVdyTlB5VE85WHdITDJHZ1V3Szc2V011LVZjdjdKNTV0cWZkUXo?oc=5",
-      "publishedAt": "2026-10-20T09:19:38Z",
-      "query": "紅茶"
-    },
-    {
-      "title": "嫌なことがあったら「紅茶」を…研究でリラックス効果を証明【科学が証明！ストレス解消法】",
-      "source": "ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOTl1cTJfVmk5NVE1UGVQWGxteUxwbnVyVENXWlUyZjladHJ6ZkVpTTFfdGhmWFQ4VW1ObnFvVU1nbDhlYVczcGJoVVN6TjN6R1RmOUtrYTcweHdjaF9zdzgwdHB0aGZEdXU2TTludFQ2MEI5X09KeEFGVHVFSm9WSldTSW94cGpzSVY0S01n0gGKAUFVX3lxTFBCQVVPSlNOaTFKakNIRWdzN1JDb3IyQ2dETC1TQ0ZCek1KQ0lVUGZMY3pGTEJodm5aV2IwYUsxM1Y5eTA4VEpVM0xyT25Od1RuTUZUbTMyWkc5SDdYVzFmX0Vwd3cwSWJDSnBRX2RIR0RWTXhMZi1zWEg1Zjd2dFRmVnVQNmlXVHJXQQ?oc=5",
-      "publishedAt": "2026-10-20T09:05:00Z",
-      "query": "紅茶"
-    },
-    {
-      "title": "東京ステーションホテルで中東アフタヌーンティー 英国紅茶「NEWBY」とコラボ、各日30人限定 | 黃信維（コウ・シンイ） | ニュース",
-      "source": "風傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yM2d2SFJPWFVmMzBDemJ1d3hRMkxEaXZpNUxMbkVITUdac3M5SWtCbklDNFZ2NkNvQlk0dDgyelZvTzlZNmNpbGZRNlotQkpR?oc=5",
-      "publishedAt": "2026-10-20T07:10:00Z",
+      "title": "コーヒー＆紅茶が「血糖値」の上昇抑えるって本当？ 糖尿病専門医に聞いて分かった上手な飲み方（オトナンサー）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kV3V1WThmb1BqYWxKcFFoaWRQWnJ1OFBVWHFVUUNYS0dOOW1VRzVnY1k4QWs0RHU5NTU2dUtsdEQ1b1lmeTc5X3c2NmEtbzFuOFdsNnk3a19kVUNBR1hNM0tWNlpJUkdaSzgxdTF0WWpVc3dVOVVCUEdNZWZ5TkU?oc=5",
+      "publishedAt": "2026-10-20T22:15:00Z",
       "query": "紅茶"
     },
     {
