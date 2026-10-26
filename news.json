@@ -1,26 +1,33 @@
 {
-  "updatedAt": "2026-10-26T14:17:56Z",
+  "updatedAt": "2026-10-26T18:26:51Z",
   "source": "Google News",
   "items": [
+    {
+      "title": "今週新発売のドリンクまとめ！『キャラメルりんごアールグレイ』、『はちみつレモネードアッサム』など♪",
+      "source": "もぐナビ",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OczVGUmk5OFc0VmxTNFIyeWNBbmtDcnprMWdiUkkxZ0xoYmRkV08yQ2VhazU5Um1VS3ZZeXBZMUhXZDlSSG9yWkIxcFFXNzQ5NGRMUGpPcHhQcGZwZGpxdGNMUU9sTHVNbm1TZ3doYw?oc=5",
+      "publishedAt": "2026-10-26T15:31:06Z",
+      "query": "紅茶"
+    },
+    {
+      "title": "ちもと 地元の特産香る新商品 和紅茶レモンケーキ発売",
+      "source": "タウンニュース",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSR2tYRUFpZFB5T3NqMW1EVGFmVk15azlWYkJoRWxFY0g1a3A0ZzV3cm4tM2k4MElmcDJPNTF4aE1GYWtSMHpIUjJMWENWNUFfX2Y0SE1ma2EtQnJOcDNDUEFmbHA?oc=5",
+      "publishedAt": "2026-10-26T15:00:00Z",
+      "query": "紅茶"
+    },
+    {
+      "title": "34ブランドのスコーンが登場！紅茶や英国雑貨も集結する『英国展 2026』が開催／ジェイアール京都伊勢丹",
+      "source": "Leaf KYOTO",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92SnBHblE2cEo5R3I4M1RHSmY0bmVnWEcwallFdmx3Smx3TUxxR2w3Z1gwTW0tOWRCMlk5RzFSR21xdGtIMWhtOWtaaEZXREJMb3JtVVhPRk00MWZ3U2ZnN1h1dTNnUQ?oc=5",
+      "publishedAt": "2026-10-26T14:04:38Z",
+      "query": "紅茶"
+    },
     {
       "title": "【2026年ハロウィン限定グルメ7選】大阪のホテルビュッフェから京都・名古屋の秋スイーツまで！（くろにゃん） - エキスパート",
       "source": "Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZVhvUWttTE8tRl9KSXZXQzl1bnFKeVMtM19vY2xmQ3doVWNPRjROTTBodzRjWGpEN3pCLVhKUWFKNmNJMDBueGNRU3ViZGNsOFNzNTZpS0ZTc1ZhQkJGbTV5NndEUi1yVHgtY25IM3RpQVA5UUsxU2NkTFFiQ0lMSmNXMkgtdEVM?oc=5",
       "publishedAt": "2026-10-26T13:06:58Z",
-      "query": "アフタヌーンティー"
-    },
-    {
-      "title": "猫好きさん必見！ねこがテーマのスイーツビュッフェ＆アフヌン同時開催（ぴあ）",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TYWZyZ0VkR2FwX1JxZDVSZ0UtYUQ0OWF4WHJjZTA0TzhjM0dySTVpbTdOZ09zd0VGNXVWaFFkWjhrYm1xSGs5RWlvVUtqUnR5TTlZaEtEbENxa0dORXhfTTllS3ZOZTNRV2o1RFUtVE40UUFJLUM2dXJoMHI0MGs?oc=5",
-      "publishedAt": "2026-10-26T12:30:24Z",
-      "query": "アフタヌーンティー"
-    },
-    {
-      "title": "【ANAクラウンプラザホテル神戸】晩秋の森を表現した「栗アフタヌーンティー」が11月1日より1ヶ月限定でスタート",
-      "source": "福島民報デジタル",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tdDFhRDRXRXg0M280WjNWMnFoUF9mbnhud0d6cTdsUmJFekJIYjItV1FHTDh5dU5QZjBqZUE2NFpvVVFhQm0xUFNScVVOeVZKdGxMR1Nibm15LTE5c1B1ZDlpY0MtbU0?oc=5",
-      "publishedAt": "2026-10-26T11:21:24Z",
       "query": "アフタヌーンティー"
     },
     {
@@ -45,17 +52,17 @@
       "query": "紅茶"
     },
     {
-      "title": "今週新発売のドリンクまとめ！『キャラメルりんごアールグレイ』、『はちみつレモネードアッサム』など♪",
-      "source": "もぐナビ",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OczVGUmk5OFc0VmxTNFIyeWNBbmtDcnprMWdiUkkxZ0xoYmRkV08yQ2VhazU5Um1VS3ZZeXBZMUhXZDlSSG9yWkIxcFFXNzQ5NGRMUGpPcHhQcGZwZGpxdGNMUU9sTHVNbm1TZ3doYw?oc=5",
-      "publishedAt": "2026-10-26T10:06:05Z",
-      "query": "紅茶"
-    },
-    {
       "title": "「クレソンリバーサイドストーリー旧軽井沢」夜限定の「森のハイティー」が登場",
       "source": "家庭画報",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FemRQZUNaTFVPZHZ3UmxTVk9HNWFvbFpySGVORW93ZFVLRlkxczVBOEJKV3RyQTQtbTVEbG1mSThoc0pXYkRJaEYtdWxlb2dWYkUtZlhvazk?oc=5",
       "publishedAt": "2026-10-26T09:46:54Z",
+      "query": "アフタヌーンティー"
+    },
+    {
+      "title": "千葉・仙台】世界にひとつだけのパフェを作って記念撮影！ 親子で楽しむ『キッズパティシエ体験』付『アリスのクリスマスギフトアフタヌーンティー",
+      "source": "福島民報デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MMktxZ1V5R2VLbG14NEp1Q2ZIS0NMcXlTOW5NYUdkbUlVSWhpbUhSRDR2MlNOM0x1OVFzOVczdnJZYjBXbTREd19uS25pdGRJQW5mbXk0UnFDZXF6N2lCU1hGUFZTVG8?oc=5",
+      "publishedAt": "2026-10-26T09:24:42Z",
       "query": "アフタヌーンティー"
     },
     {
@@ -80,9 +87,16 @@
       "query": "紅茶"
     },
     {
-      "title": "スピッツ、18thアルバムから「キリン 午後の紅茶」CMソング「キツネノボタン」を11月2日先行配信",
-      "source": "Bezzy",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nOExRd09hUWxOUm9qMllMVTYxM2xQRDN1RDkzZlg4RFUySjFRbW1mblptT0UxMDgyNFpsMmg2aUpzY0hNdVV4Z3lfOA?oc=5",
+      "title": "【スタバ新作レポ】ホリデービバレッジ3種が登場 アールグレイ×チョコのフラペチーノから限定スイーツまで一足先に食べ比べ",
+      "source": "オリコンニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kWVY2VmZQNGhPUnRRZ2ZiQjItS3EwdG44TmsyUV9hVEtwR1pSc29IUzlPNk5JRUl2U0s2WFNwZ3Rvc1RZREFDZXpPc01md3FDQ1FQRk1n?oc=5",
+      "publishedAt": "2026-10-26T09:00:00Z",
+      "query": "紅茶"
+    },
+    {
+      "title": "スピッツ、ニューアルバムから「キツネノボタン」先行配信決定。『キリン 午後の紅茶』CMソング",
+      "source": "BARKS",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE4yRjhzUDRlNW9TLTNNSTh1bFFvUlB4eUo2THVTRmxvaU80TDVTS19VVFRtR0YyajJoZXhVakNTRHdTajQ?oc=5",
       "publishedAt": "2026-10-26T09:00:00Z",
       "query": "紅茶"
     },
@@ -94,9 +108,9 @@
       "query": "紅茶"
     },
     {
-      "title": "【スタバ新作レポ】ホリデービバレッジ3種が登場 アールグレイ×チョコのフラペチーノから限定スイーツまで一足先に食べ比べ",
-      "source": "オリコンニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kWVY2VmZQNGhPUnRRZ2ZiQjItS3EwdG44TmsyUV9hVEtwR1pSc29IUzlPNk5JRUl2U0s2WFNwZ3Rvc1RZREFDZXpPc01md3FDQ1FQRk1n?oc=5",
+      "title": "スピッツ、18thアルバムから「キリン 午後の紅茶」CMソング「キツネノボタン」を11月2日先行配信",
+      "source": "Bezzy",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nOExRd09hUWxOUm9qMllMVTYxM2xQRDN1RDkzZlg4RFUySjFRbW1mblptT0UxMDgyNFpsMmg2aUpzY0hNdVV4Z3lfOA?oc=5",
       "publishedAt": "2026-10-26T09:00:00Z",
       "query": "紅茶"
     },
@@ -115,13 +129,6 @@
       "query": "紅茶"
     },
     {
-      "title": "34ブランドのスコーンが登場！紅茶や英国雑貨も集結する『英国展 2026』が開催／ジェイアール京都伊勢丹",
-      "source": "Leaf KYOTO",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92SnBHblE2cEo5R3I4M1RHSmY0bmVnWEcwallFdmx3Smx3TUxxR2w3Z1gwTW0tOWRCMlk5RzFSR21xdGtIMWhtOWtaaEZXREJMb3JtVVhPRk00MWZ3U2ZnN1h1dTNnUQ?oc=5",
-      "publishedAt": "2026-10-26T08:04:14Z",
-      "query": "紅茶"
-    },
-    {
       "title": "アロフト by マリオット 大阪梅田のクリスマスアフタヌーンティー、ピスタチオのオーナメント型シューなど",
       "source": "千葉テレビ放送株式会社",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xRzN5TV9XbU41WkF4U1JkYlRySWZGSF8yNlJfeGlBMmgxeklYVUh2bjl5bThhdW82OHNJUXJqWG9FaE5zUkNaVkNVaFlROTlTUmRZTzNsc3RuX3RqWlU4?oc=5",
@@ -129,17 +136,10 @@
       "query": "アフタヌーンティー"
     },
     {
-      "title": "ウェスティンホテル仙台、レストラン シンフォニーでホリデーシーズンをテーマにしたアフタヌーンティーを期間限定提供",
-      "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWMGpCRXlVcXVVRmdkNE40ZUxrUGNVOXd5SHAtZk5MYlRscTYzVnhuSlhQV0pqLUZuakVOakpzRWtCbDA5c1pSUnNRSlZUeUJ2Q2k2d19OTWh5RkdydzFTSDFOUDlTYnU4ekRF?oc=5",
-      "publishedAt": "2026-10-26T06:33:01Z",
-      "query": "アフタヌーンティー"
-    },
-    {
-      "title": "千葉・仙台】世界にひとつだけのパフェを作って記念撮影！ 親子で楽しむ『キッズパティシエ体験』付『アリスのクリスマスギフトアフタヌーンティー",
-      "source": "クレアウェブ",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kYUVVU2dfOFoteG9NcGZsMU1FSnNYd05NWGRTQ3BHdGJrSjNVbnc3ZUlnZG42bkd1MXJlemdSNzRKOHRyTVBJbFZMM0ZMdWZTb1RLblZOQ0xCd3VYSkVFOGdJQ1FqS0w3bTNwVzU0Z0pCUQ?oc=5",
-      "publishedAt": "2026-10-26T05:25:43Z",
+      "title": "【ANAクラウンプラザホテル神戸】晩秋の森を表現した「栗アフタヌーンティー」が11月1日より1ヶ月限定でスタート",
+      "source": "PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rZUp4S3hfR29mZW8tU0lHbFVBVU1NM2FFbUhtd0tWWGJNbXpvTmh6OG96QlpjUEFPVktsUnpEMDU2RVlsVG5FTFdaclU0TUpDLUxfN01CQkt2bktzOGdFLW9Qa3kxckUtcnc?oc=5",
+      "publishedAt": "2026-10-26T06:54:28Z",
       "query": "アフタヌーンティー"
     },
     {
@@ -164,16 +164,16 @@
       "query": "アフタヌーンティー"
     },
     {
-      "title": "【南紀白浜マリオットホテル】和歌山が育んだブランドいちご「まりひめ」とショコラが織りなす「MARIHIME Strawberry Afternoon Tea」を発売",
-      "source": "沖縄タイムス社",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBybmlmTVZNTG9lQ0w1dlVqZ3VwZWlWV3ZTSm1rcDQ2RTlsYnN5dVdwWlhycVcwc0YzS0FrR2I0SlVEeERMVm9ZTURhMlRwcnlPR1YyZ1ZILVRGM3FteFE?oc=5",
+      "title": "【南紀白浜マリオットホテル】和歌山が育んだブランドいちご「まりひめ」とショコラが織りなす「MARIHIME Strawberry Afternoon Tea」を発売｜Infoseekニュース",
+      "source": "Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MUzR3Sk5uQVViSERYeE13N2QxbjRSZDF3enU4Z1B5Rk1HYUR5V1hfZmRTa1JIc3poeUZVTXJwemtWQXFuY2tKUm4zcDItNkJCSUU3ZWVYeXh4WVczRFczX0RHWnJRRHozM2NKekhB?oc=5",
       "publishedAt": "2026-10-26T05:06:14Z",
       "query": "アフタヌーンティー"
     },
     {
-      "title": "【南紀白浜マリオットホテル】和歌山が育んだブランドいちご「まりひめ」とショコラが織りなす「MARIHIME Strawberry Afternoon Tea」を発売｜Infoseekニュース",
-      "source": "Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MUzR3Sk5uQVViSERYeE13N2QxbjRSZDF3enU4Z1B5Rk1HYUR5V1hfZmRTa1JIc3poeUZVTXJwemtWQXFuY2tKUm4zcDItNkJCSUU3ZWVYeXh4WVczRFczX0RHWnJRRHozM2NKekhB?oc=5",
+      "title": "【南紀白浜マリオットホテル】和歌山が育んだブランドいちご「まりひめ」とショコラが織りなす「MARIHIME Strawberry Afternoon Tea」を発売",
+      "source": "沖縄タイムス社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBybmlmTVZNTG9lQ0w1dlVqZ3VwZWlWV3ZTSm1rcDQ2RTlsYnN5dVdwWlhycVcwc0YzS0FrR2I0SlVEeERMVm9ZTURhMlRwcnlPR1YyZ1ZILVRGM3FteFE?oc=5",
       "publishedAt": "2026-10-26T05:06:14Z",
       "query": "アフタヌーンティー"
     },
@@ -199,18 +199,25 @@
       "query": "アフタヌーンティー"
     },
     {
-      "title": "【こだわりの一杯を日常に】紅茶とコーヒーの奥深い世界をビジュアルで解説。「暮らしの図鑑」シリーズから基礎知識や道具の選び方を網羅した『コーヒータイム』『おいしい紅茶』の2冊を10/26同時発売 | 株式会社翔泳社のプレスリリース",
-      "source": "PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yMDViMEJqU3E0Y0FCalRDNDlaeGFhRHZFOUE4M3lIaHBxQ1FnWHNOS1JDMDZVbjY1UnBCMkV5MWt0dk56THVoaGd6TzdSZV9jbjNUR21wZ2czM0gtQzNpbndYN1o2SmFhVVE?oc=5",
-      "publishedAt": "2026-10-26T04:00:01Z",
-      "query": "紅茶"
+      "title": "発酵エイジングケア*¹ブランド「FAS」×パーク ハイアット 京都「ザ リビングルーム」】心華やぐフェスティブアフタヌーンティーを12月1日より期間限定でご提供",
+      "source": "| 繊研新聞",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEM2ZkFiRkg0RVJpamx5aENrT2d2ZzZqT0VWTjFFSG02Tnl5UHZXcDBZTjJtbFozN1Y2ZmFnOC1jcWVLZjAyeHFFSFlLR2YzUnlXM25UTkNQMEtzdG9Lcmh1WFFlQ0VweFpJYXBOX1hpTllISkNTelo2bml0S29qTGFwNlNhdlNkd3lFTHpsVDVRTmloMWNfVlRVNTRFZFJ2ZVlWbjk0blhXc0FqblE?oc=5",
+      "publishedAt": "2026-10-26T03:54:42Z",
+      "query": "アフタヌーンティー"
     },
     {
-      "title": "【スタバ新作】クリスマスは色んなティーが登場！チョコ・いちご・ロイヤルミルクティーの違いや中身は？",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ04zckhndm4wNlRHbk92V01wSnB0bG5QMnJaQU5SLThKN0plWHFYeEJEaVFDUHM0Yk0yZGdLNE1iSWtiUzQtbDNlM01qUFBKUGV6REh5X0VEbEtMbGEyaEhCTGJKS0xObl9RZ3ZWZEhnWVNXM2FIcUdMdW10bGozRDNXS1FYSVYy?oc=5",
-      "publishedAt": "2026-10-26T03:59:34Z",
-      "query": "紅茶"
+      "title": "小田急ホテル「クリスマスコレクション2026」開催へ 特別スイーツ4 種や限定アフタヌーンティーを提供",
+      "source": "風傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11UERhNFdQaTd2SUZWekhEaS1Ca196QUR5VzJMSzlEbVMxQm1HckFjNG5XbW5JeHJ5V0R2cWRYbUxCbGFaUXhKN3Izc0h3UnlU?oc=5",
+      "publishedAt": "2026-10-26T03:35:00Z",
+      "query": "アフタヌーンティー"
+    },
+    {
+      "title": "第５回 自分好みの一杯を探す | 和紅茶の世界をのぞいてみよう | 森本禎志",
+      "source": "ほぼ日",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95dWZXVlhPMkJkMkk1LTJycHpWSWtTTTY1eFYtUjZJUE9DbXN1VUxhcmhybXRWMjc3aHhkQUJmY0U0MllUUXBDa2dsU1RSbFZ6MEY5TG83el93Qzgz?oc=5",
+      "publishedAt": "2026-10-26T02:00:00Z",
+      "query": "和紅茶"
     },
     {
       "title": "第４回 和紅茶で「お茶漬け」を | 和紅茶の世界をのぞいてみよう | 森本禎志",
@@ -229,8 +236,8 @@
     {
       "title": "こんなにも違う？ 和紅茶専門店「KAGUWA」(神楽坂)で楽しむ、季節の和菓子と香り豊かな一杯 (ufu.)",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObUl6V2M4ZmJzczFyQUhqZENnbFREbDlJMW8wa0JlX3Ixek5yS2J0cGZLUlVKRG1fekxvZ2RKSUVxUkJHMGJ2MDZ5ZHhZTk5DQy11MGVRZkZ5RGVycDhwczhRUVBJMkxUTXo2Tlp4U2puTk1YaWFlc0RKbzlNZjREdXRhenpnbG5KX2NCbmZ3?oc=5",
-      "publishedAt": "2026-10-24T17:25:12Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYTQxV3dMUTU4V2hqa2xCZVBMT1VSQjY4UklmVTZhNXVxSUI0dVdubGtScGVYWDNIQXlLajZQaE1aa1FCWm1vQ19sTEhKUzkyeE1Yd1RlX1dpbjZoalJmN1NyR0VaM0hyWjFod2drakxQT3JMdDJDeUhURVM4WUJ2OUQ0dEg5Zk5DaVdRbmt3?oc=5",
+      "publishedAt": "2026-10-24T17:27:06Z",
       "query": "和紅茶"
     },
     {
@@ -273,13 +280,6 @@
       "source": "ほぼ日",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zUWRIRTdQNTlNLTMxUzVIWC1PcW42bmZmbHpxZHhHSU9wLS1vUnlBRmFaTWNBQ0JoRFR4eFh3T29hY0NXaDNBWFVTUHV4VGotTnZEOG1B?oc=5",
       "publishedAt": "2026-10-22T05:51:50Z",
-      "query": "和紅茶"
-    },
-    {
-      "title": "第１回 多様性を楽しもう | 和紅茶の世界をのぞいてみよう | 森本禎志",
-      "source": "ほぼ日",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BQ2U5bUZtb2Y0ZFBpdlBsVWhtWEJtRVpXRjlodG1XUkpqTGg2YkQ1OURyMDNjRldmVFp1TDRaTlhqdnNaYzhVVEk5UEphcTRDYXJ0NHRoZ29NOU0z?oc=5",
-      "publishedAt": "2026-10-22T02:00:00Z",
       "query": "和紅茶"
     }
   ]
