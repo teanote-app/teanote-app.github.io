@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-11-21T13:59:05Z",
+  "updatedAt": "2026-11-21T22:39:38Z",
   "source": "Google News",
   "items": [
+    {
+      "title": "【ローソントラベル】列車に乗って小湊鐵道を応援しよう！『小湊鐵道「走るアフタヌーンティー列車」 往路と復路で変わるスイーツと沿線の魅力を味わう特別なひととき！」を運行へ",
+      "source": "千葉テレビ放送株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zWEwybmtVTFJET201cU1qVUItX2pPOTB3TnZQR1lxcDNPbDRPVUhibkxPWmxVeGlSUEQ4ZlFOLUNER3pGX3BtVHVMMWJWRFZja0txUGVUZmU2RWp2bXJZ?oc=5",
+      "publishedAt": "2026-11-21T14:50:04Z",
+      "query": "アフタヌーンティー"
+    },
     {
       "title": "目黒蓮の“ベレー帽コーデ”に反響！前髪をしまい、おでこ全開。帽子のてっぺんに手を添えてにっこり「王子様の微笑み」「ほんとかわいい」「めめの手の大きさがわかる…」",
       "source": "THE FIRST TIMES",
@@ -31,13 +38,6 @@
       "query": "紅茶"
     },
     {
-      "title": "【大阪】まるで森の中♡ウェスティンホテル大阪のクリスマスアフタヌーンティー",
-      "source": "千葉テレビ放送株式会社",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40SmxIVi12WDg2bUhSNTFYY3ZyNVhuTURIVjl1V1ZEbm9oS0ZINFJITjVFS0pWTjdiMjdGTUdXa1FycFFzbW41S3lQbjhhdU5xRTVtbnV4elRiV1NWeHNJ?oc=5",
-      "publishedAt": "2026-11-21T08:06:27Z",
-      "query": "アフタヌーンティー"
-    },
-    {
       "title": "ディズニー＆ピクサー限定ラベル！ 午後の紅茶アップルティーソーダが9年ぶり復活 12・8～",
       "source": "ラジトピ ラジオ関西トピックス",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FSnVQaFBmT1gtbTlqcmM3VUVwbkplaG9pS3p0SVlYbWlXWV94Z1NZcmIxNkhGNTZuMEdpYTMxSmY4aHlRTUtjWmx0ekNDU1JnenpOODNB?oc=5",
@@ -50,6 +50,13 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zWHgxUEJNZHBheWV0VUhXRk9XcUxPeGg2YUkyV2E4Ny04aFhFTjVtc3dIYTJEQU16Y0h0SUREdVJEOTFPM0F6RkM5aS1tZ3BIODBWRDZVc1RvQ0JWa0k4ck15QVFpTEZ2a2xvRnRPV2tMUmtjaWJNSWRZc3pTaG8?oc=5",
       "publishedAt": "2026-11-21T08:00:57Z",
       "query": "紅茶"
+    },
+    {
+      "title": "【大阪】まるで森の中♡ウェスティンホテル大阪のクリスマスアフタヌーンティー",
+      "source": "ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMjZ3NGFRWjdkMzZXY2ZhN0dXV0diNlYyNUpLbEl2bFNMN0FmS09TWGNFb0hJSm5xd24tay1JRHdkcTg4MC1yWlZ6clU3YXduQlBBQXBBZ2E3UWxYN2pRU3ZXNGV0bVJXczZmWkxMdGN0NlZPaGpNRWJ2Wno4dmVLOEpmMnpiSXlIREg0ekludnNGUm41ZG13QTFBYWcxOGxTQnBmYkZ2cVZWS1ZWTDlRa2NkRlFrQUE5aDlWNUFJWi1mODYzNk5uMmJTLULSAXxBVV95cUxQOHdmUGdBMmpoM0hldHlwT2o2N1FXb1NCNXZQTlVDQ0duOC1ZZUpMa1RueG81WHB6eFRiMU1HNU9mQ1JUb0F4Sk1Ramt4WE1CWEdxODBzSFBlSkk2LXJxSjRVZHFKOGlCQXdld1NNNDNJc2tId3AzaFJ0X2J0?oc=5",
+      "publishedAt": "2026-11-21T08:00:00Z",
+      "query": "アフタヌーンティー"
     },
     {
       "title": "9年ぶりに復活！ 午後ティーの「アップルティーソーダ」今度はディズニーラベル",
@@ -80,17 +87,24 @@
       "query": "紅茶"
     },
     {
+      "title": "【クリスマス2026】いちごのアフタヌーンティー+カフェフリー",
+      "source": "オズモール",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12TDVtQUl3MGlYNjVlSks1WmYyeE5hY0hhd1ZPc0NtbGZpNjRqSDF3Y2s0QVd0T0VJZEg0UzlacDFIYWhzMm9RTUZKbmZ5bXJHREQ3akxESmhzN2JFNVRTLVpsSEc?oc=5",
+      "publishedAt": "2026-11-21T04:24:41Z",
+      "query": "アフタヌーンティー"
+    },
+    {
+      "title": "小湊鐵道「走るアフタヌーンティー列車」 往路と復路で変わるスイーツと沿線の魅力と特別なひととき！",
+      "source": "ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXlnWnRnOXFwLVNZVksxcVpKd3ZkMnN0REZPYWtDTFNseGN3d0RVaGE1RGE1cWE3dHFMaXhodGhrUXQ1MU5SVnNBYmFtZHpBVUZkZXVhVGttNk5faEVfZVB1V1B3QVlyWHdyNzktT2JvaEJuNmwxUnNXMDdrblRPdNIBhgFBVV95cUxNVmRGU0lMMlJacGZVeVhSdkw1Z0ZhUDNKcnUtVFg0NWh4UHVFekxWQ1U1WUYxSHkzOWFvU1hxTGVJbTZQUXRqSmtqdm1vQzF1djBEQS1RWklmRnNQMy1DcUE3TXJEZHhvaENPRkk0VTd3TC1lVHplUWEzNmFKT0xYa2g4XzRyZw?oc=5",
+      "publishedAt": "2026-11-21T01:41:30Z",
+      "query": "アフタヌーンティー"
+    },
+    {
       "title": "グランド ハイアット 東京、クリスマスアフタヌーンティーを提供 12月1日から",
       "source": "千葉テレビ放送株式会社",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLTVZUb3l5MWlzRWI5WjJyVnI3M1EtaS1HSkZjM0Q0Nl9oVVpyeF8wTlVfaUJDWVlTTkVYeS0yalphYXFWakxYMDg3MU9Bd3Nua0JZeWlUbk1rOVd2YmJR?oc=5",
       "publishedAt": "2026-11-21T01:32:25Z",
-      "query": "アフタヌーンティー"
-    },
-    {
-      "title": "【クリスマス アフタヌーンティー】+乾杯モクテル&カフェフリー+特別席(12/23～25)",
-      "source": "オズモール",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmQ3N0RE9DRU5RWGExVEZKQlhlQ0JBazgxWkw5bDNQb3d2MmEzR205MUtGYjFrcEtnS3ctb1NPb3BUTTU1VWtkRVFJTnBXYXVlS0FCelBYMU9BTDJFYzluejMwclo?oc=5",
-      "publishedAt": "2026-11-21T01:28:43Z",
       "query": "アフタヌーンティー"
     },
     {
@@ -99,13 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rWWVGLXBaR2Q4c3NObFVMVmlQZVlHMEtYek5zRW5FMEdhTnBxdDNHWG4tbjFjeGViYkZPcmljNXJNN3FDZzZSNmdiU3JXU0hHcjc5R1hJcEQ5WnROMVpDajUtNncwd1FjU0NDN3hHSWg3bzIxZkZNNE1uazJMRE0?oc=5",
       "publishedAt": "2026-11-21T01:00:33Z",
       "query": "紅茶"
-    },
-    {
-      "title": "小湊鐵道「走るアフタヌーンティー列車」 往路と復路で変わるスイーツと沿線の魅力と特別なひととき！",
-      "source": "ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXlnWnRnOXFwLVNZVksxcVpKd3ZkMnN0REZPYWtDTFNseGN3d0RVaGE1RGE1cWE3dHFMaXhodGhrUXQ1MU5SVnNBYmFtZHpBVUZkZXVhVGttNk5faEVfZVB1V1B3QVlyWHdyNzktT2JvaEJuNmwxUnNXMDdrblRPdNIBhgFBVV95cUxNVmRGU0lMMlJacGZVeVhSdkw1Z0ZhUDNKcnUtVFg0NWh4UHVFekxWQ1U1WUYxSHkzOWFvU1hxTGVJbTZQUXRqSmtqdm1vQzF1djBEQS1RWklmRnNQMy1DcUE3TXJEZHhvaENPRkk0VTd3TC1lVHplUWEzNmFKT0xYa2g4XzRyZw?oc=5",
-      "publishedAt": "2026-11-21T01:00:00Z",
-      "query": "アフタヌーンティー"
     },
     {
       "title": "サンタの点心やパンダ饅頭も！東京のクリスマス中華アフタヌーンティー4選",
@@ -129,17 +136,17 @@
       "query": "紅茶"
     },
     {
+      "title": "【中評価】「フレーバーは どれも人工的な味でした... - 日東紅茶 6バラエティパック」のクチコミ・評価 - mogu2000さん",
+      "source": "もぐナビ",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uRC1YV3BOd050QW1rVjY0NmJFMnY2Qk1uc0QtUkxNTTQwUUNvLTF4OUR5R0NkS2JKZkh5eGdSREc5QkNuT0RtVUJoUjFFSEk?oc=5",
+      "publishedAt": "2026-11-20T23:58:52Z",
+      "query": "紅茶"
+    },
+    {
       "title": "埼玉の2品種いちごと薔薇を楽しむ華やかなティータイム！川越プリンスホテル／ロビーラウンジ「あまりん×べにたま ストロベリーアフタヌーンティーセット ～Love&Rose～」",
       "source": "Dtimes",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9NX2ZKYktwU3F4b0FqU2JyZzlYemsxT2gxMzZROG5ZY1RwbEhiRTFWemlOZTR5ZTZxTmhmbnVoNldaWE15UFE?oc=5",
       "publishedAt": "2026-11-20T23:36:27Z",
-      "query": "アフタヌーンティー"
-    },
-    {
-      "title": "【表参道】クリスマスに食べたい「純白の花嫁パフェ」が可愛すぎる！人気カフェの限定メニュー",
-      "source": "STORY",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XNHpuY01aMWNhaVduOWkwNmVJT3B0WFlEZjZoVllObEpuV2oxRmJiSEU3S2FRR3FHZDIxT3FYdkFlQmYzUjI3TjhLbmYtdw?oc=5",
-      "publishedAt": "2026-11-20T23:03:33Z",
       "query": "アフタヌーンティー"
     },
     {
@@ -178,6 +185,13 @@
       "query": "紅茶"
     },
     {
+      "title": "【都シティ 大阪天王寺】「いちごのアフタヌーンティー ～いちごとヒツジの安らぎのひととき～」を販売",
+      "source": "ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JSzlIVnplSnBtNUh6dUY3UmZWWk4ySmlsbzVhME5DVVNxT1ZSOUxPQTBRVXNHTVdVUXFHY3p6TEdZcXZ0ejZsNDFRbnhKQ3RSYVFzQ3BDenhvX1NLWUp6NUJITzZtYzZCY25pQUJIaXB6c1lpM2c?oc=5",
+      "publishedAt": "2026-11-20T16:45:50Z",
+      "query": "アフタヌーンティー"
+    },
+    {
       "title": "中部秋季特集：キリンビバレッジ 「午後の紅茶ラテ」 中京大で学生飲み比べ",
       "source": "日本食糧新聞・電子版",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JMmNjWU0xYTJlMkl6V0JjU3BRalR5OGJ5VUNDaEUzLW9ydEZra2t3RmNXbzczVk83RUxXVFE2WUU0eHRBRnpTMEZKamp2b09sNUppQUZjdGw4REpvTHZHaFp0Z2dzT0ZvSzlv?oc=5",
@@ -192,13 +206,6 @@
       "query": "アフタヌーンティー"
     },
     {
-      "title": "【高評価】「レモネードの紅茶割りという感じで、レモン...」",
-      "source": "もぐナビ",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WZEhfMGZPUnBLakQtR3FUcDRQX3hEM3lCWUFYeGcxOWpXczZrc09zbEJQLWRVZ2Q3Sms0YlZ0dmFCSTJ2cldjYkpEc1ZzSFk?oc=5",
-      "publishedAt": "2026-11-20T13:17:38Z",
-      "query": "紅茶"
-    },
-    {
       "title": "高級ホテルの「クリスマスアフタヌーンティー」５選｜「JWマリオット・ホテル東京」や「アンダーズ 東京」など",
       "source": "Precious.jp",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uQ3VibTczY3dUZ1lCOEFZV2lMd1diT1NtcnFsa3JOUUFhb2RlYjU5U0Vxb091TUJCR1duYlU1bTVUZFRjWFhldEtoTk0?oc=5",
@@ -210,13 +217,6 @@
       "source": "ｄメニューニュース",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUaW82U05nQzBUWW93WGNYVnJJb3pvUHhfdHpSVHN0SGttZERkY2czOXNaLS1MSXcwRjVLZXZEaFR4SmhpVmdlN3dsTjdTY2YtcGxvWDVaX2d0WndOMkJfX2VZeVNpRHVVTlhOUkZKZ1diQdIBd0FVX3lxTE5fMzI0d2dDM05SZmp4d2hacGV4SkRpN3dWQTc1M29VOEZZZmdFN24xWVkySmNIV1lfcnRrZ01LaXVRVHFLcVFEa2dubDZJcEQ4MWVDeUxQbUJLaU5Pa1ZsS3BOazF4WTNfc05USkF0TndNRi1GMHVV?oc=5",
       "publishedAt": "2026-11-20T11:36:00Z",
-      "query": "アフタヌーンティー"
-    },
-    {
-      "title": "フォーシーズンズホテル丸の内 東京「フェスティブアフタヌーンティー」が12月より登場",
-      "source": "Vogue Japan",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBieGdXeG51bjhVS1o0cEdIVnctQVlRSTRYcF9EMGxKVV9wS3QydlJQY28zTm1GMFNSRVNaenNyWU9IeGN4cmdQWkhSU21SWVNTWm82aXQ1VGd1a1dGYjdNR1A0X0tkeDBON3NIVA?oc=5",
-      "publishedAt": "2026-11-20T09:00:00Z",
       "query": "アフタヌーンティー"
     },
     {
@@ -276,10 +276,10 @@
       "query": "和紅茶"
     },
     {
-      "title": "ジェラッティー®が新登場する冬のあまおうづくし！ゴンチャ「あまおう®Holiday」と TEACRAFT 第五弾「あまおう®和紅茶」",
-      "source": "Dtimes",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1VRF85WEx4U3ZDVkY5eW5PckhXLVF3UkkzdzlGZ0ZTRElseUpCeGpidXFuMlZ5QTdBN0dTQ2ZPbXRZNmV0dGc?oc=5",
-      "publishedAt": "2026-11-18T02:03:06Z",
+      "title": "【ゴンチャ】“あまおう”づくしの冬限定メニュー登場 新作ジェラッティーや和紅茶も仲間入り",
+      "source": "オリコンニュース",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kYUVmeVpOVnF6OVk1ZnNHMHd0OGNJWk9OS24yU1hSNGFiRnN0aTBFWWttMW1acHVxd2ZzY1F3YlBBQlJPTnVydW9EbU14MXM?oc=5",
+      "publishedAt": "2026-11-18T02:54:00Z",
       "query": "和紅茶"
     }
   ]
