@@ -1,13 +1,55 @@
 {
-  "updatedAt": "2026-11-22T23:03:48Z",
+  "updatedAt": "2026-11-23T05:06:00Z",
   "source": "Google News",
   "items": [
+    {
+      "title": "【画像】あなたはどれを飲む？気分が上がるゴンチャ定番の冬ドリンク",
+      "source": "おとなの週末Web",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YOG1rN1VUWkdfS0NoWWVNRWd4WUlNLVN6VjJydHRsdjZBem1FdlpGME9WSVBqMDlGel9jUGFCTXVzRElQa2RMWjZTdXdOTEk0aVFQSUN3?oc=5",
+      "publishedAt": "2026-11-23T04:49:06Z",
+      "query": "紅茶"
+    },
+    {
+      "title": "ゴンチャ冬限定ドリンク「あまおう」シリーズが帰ってきた！新商品ジェラッティーとはなんだ（おとなの週末）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pOWZyd2JMN0M4SWtGemNPVUhJRFFRNFd6WmJJLS1iWWhWQ3A0bDZmUU9NOXVzV1c4RV9RQVRHVnM2eHUzLVNMWmR2RXVjM2daS2lVWkRycW90NTM3TXlnc1RSTEg4VzlHdE9sMjRHYllZSUk0N29ES0w4U1drMzA?oc=5",
+      "publishedAt": "2026-11-23T04:00:07Z",
+      "query": "紅茶"
+    },
     {
       "title": "今週新発売の菓子パン🍫まとめ！『ジャンボむしケーキ 冬のチョコ』、『紅茶が捗るジャムパン』など♪",
       "source": "もぐナビ",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02VmlkeGVhYXBhR2NoNWRRMHRIOU5tMm5YdW1IRGVBMzFudl9PT01qM0lrTXU5cDFtOUtrQzdTU0QzVnBnWWM0YUNRcHA4M01RVTlTRVRwZWxVT1k0V0ZZaWxvX1JiWEhmRmw1bHFaaw?oc=5",
-      "publishedAt": "2026-11-22T22:18:45Z",
+      "publishedAt": "2026-11-23T03:56:15Z",
       "query": "紅茶"
+    },
+    {
+      "title": "熱海パールスターホテルでクリスマスアフタヌーンティー 紅ほっぺのケーキやトナカイマカロンも 12月1日から（テレビ静岡NEWS）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45VmdPcWh1UXdZd09yZ1d4VjBLNVlKWlA5SnVCYUdCNWNBUnhReW5YcF9XV0kyUk5uelE1NmIxWngwejdHVWNKZ3JaR0lROWVnUHQ5NjNfaWtOSHNFQnVlT29wMVVVQS1FVEVLT0FUNENmbVhkNkxVc2VQZk1qUHM?oc=5",
+      "publishedAt": "2026-11-23T03:00:02Z",
+      "query": "アフタヌーンティー"
+    },
+    {
+      "title": "いちご尽くしのアフタヌーンティーに和牛や伊勢海老のディナーも！富士スピードウェイホテルで冬限定メニュー 12月4日から",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ld1BiNFBIVXB3WTlXRlBBcEMzbU9zbUJjQ0dVWnpLTzJUWHJTcmdLbFpKZ0V4QUxET2dHS2gtdWozdURsVjNMNFd1TkRnNlRYejJDN2Z6RlZoRkxaM1g2b3N2VWRIa2pKSlRGXzN4TGx5OTBtVm1ZMjdGVGUxVjg?oc=5",
+      "publishedAt": "2026-11-23T03:00:02Z",
+      "query": "アフタヌーンティー"
+    },
+    {
+      "title": "きらめく夜景とともに楽しむ、カフェフリー付きの夜アフタヌーンティー3選。クリスマスシーズンのデートに - OZmall",
+      "source": "オズモール",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KNHAweC01TEM4UHpJZkgxOE9qYjRyMUg3clliZjJUd3JPcEtNWVNzSy1Lczk1OWlyZnhrdzJJWTBubTF6MHpoQlJoM1FCLUNYS05yd1JEYmNVZnprajNaNWUwSUt0eG9WcS1sbmlRblQtQkFSeGxj?oc=5",
+      "publishedAt": "2026-11-23T01:00:00Z",
+      "query": "アフタヌーンティー"
+    },
+    {
+      "title": "「高宮庭園茶寮」で冬限定「いちご×チョコレート」のアフタヌーンティー開催【12/1〜2/28】",
+      "source": "ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdGEtUlFkOXlMVTdYWkNTRWNlN3BsZm1HMGR2RHB6Uk9WNlVJbkRySlJ1aUNCdkxCYWxzcGF1MlpfR3VCdlB5b054U0JFU1E3M2dDelBleklwZk9IWHA0dlVUMU9EbEwyWXBROWk5RnpvQ00yTzdtVmpweURVc25nRnkxcEZtQdIBiwFBVV95cUxNN2NRUGhUQ2pUeElYTVhKbTNUdXdIWGt3QWdwZEh5WFdqMGljeWdib1RoeE9YY0VfR3p4Nnd2VWJuQ25PaXNpVEFVWVZ5c0RoMmhfUmk2Zmh1SVM4YmtNdHdzZC1iT041RWpDTjdRUUtDZkVLdlhaM0ZvbngxbmJoYi13Tld4TU9wRzlN?oc=5",
+      "publishedAt": "2026-11-23T00:30:00Z",
+      "query": "アフタヌーンティー"
     },
     {
       "title": "どこか懐かしい冬のご褒美時間♡オールグルテンフリーで楽しむ「冬日和のアフタヌーンティー」【ザ・キタノホテル東京】",
@@ -82,7 +124,7 @@
     {
       "title": "もう普通の手袋に戻れない…！アフタヌーンティー×スヌーピーの「めちゃかわ手袋」便利すぎる仕掛けにびっくり！《購入レビュー》",
       "source": "ダイヤモンド・オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kRE5JenVsZFc5TmNLLWxzd1FuMFE5N29rczUzb0JLTS1ibG43SFpEOEJwOFNTaHFNOUdQb0pEeDliblE1dmFkLTlCYXk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jNGtTSlhqSU5oSFZmQXlydWtmd1dkTVl4cWJjNHdQQmZhQi0xUTZXWDV1Y0MzRWRING84aUJ4SUFWVllRZnVoNDZ2VGRzY0dJZ0ZUcE5B?oc=5",
       "publishedAt": "2026-11-22T02:00:00Z",
       "query": "アフタヌーンティー"
     },
@@ -94,24 +136,17 @@
       "query": "紅茶"
     },
     {
-      "title": "苺好き必見♡タカノフルーツパーラーで旬の苺を好きなだけ！新年を彩る和のアフタヌーンティー",
-      "source": "千葉テレビ放送株式会社",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HLUp4RThiM3hiM0o1MGhrTkdid0tkUFV0dFJoNVhkSDZURFJhUG5tcUlFdFVZMHZ6U0NDVkliYjhhLUtuZVNXY0lwdEFnM1NQbWsxRldrN1gtSC1aX200?oc=5",
-      "publishedAt": "2026-11-22T01:36:26Z",
-      "query": "アフタヌーンティー"
-    },
-    {
-      "title": "苺好き必見♡タカノフルーツパーラーで旬の苺を好きなだけ！新年を彩る和のアフタヌーンティー (2026年11月22日掲載)",
-      "source": "ライブドアニュース",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WcmFUeEE2OGh1Qk9PaGJpVUx3YWg3SDdYemcwUTFSOXh0T215bi1kNmlRX1VGcm5jVmtsXzdETGJJNDhvb0ZRX3h0VXR0cktDVlRMMHg1VG9YM0RmX0E?oc=5",
-      "publishedAt": "2026-11-22T01:30:57Z",
-      "query": "アフタヌーンティー"
-    },
-    {
       "title": "徳川家康も愛飲した「静岡茶」発祥の地・足久保 和紅茶はブランド化 抹茶で新たな転機も 味旅遊",
       "source": "産経ニュース",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ocWVGNUNBbV92VTJDb28xNUlrVlEwRGJrcWZObVlhU20tTWxNV2R6c3p2dXpnc1VXMEpmcDNhMU9SNC1DMmY3emhEQUpHcU9lTXNMU1FZLUFsd3YwUjBRTk1kakNFMzc5Smw5UDlHd2MyM1BWYkE?oc=5",
       "publishedAt": "2026-11-22T00:50:00Z",
+      "query": "紅茶"
+    },
+    {
+      "title": "【図解】BTSは台湾・高雄で何を食べた？ ジョングク・ジミン・j-hopeは紅茶ミルク店から湯包店へ、Google評価最高は4.9",
+      "source": "風傳媒日本語版",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xNGt4UE14T0RVTkFXRm9TR2ZFcXlVdlppWS1zbXVWeWxDd1p5cXVtdndfME1maG01UnlhcW9WYl80RkJJazR3UFBVSWhZZUpK?oc=5",
+      "publishedAt": "2026-11-22T00:23:00Z",
       "query": "紅茶"
     },
     {
@@ -136,6 +171,13 @@
       "query": "紅茶"
     },
     {
+      "title": "「日東紅茶」から「シナモロール」と「ポチャッコ」コラボの定番品 人気キャラをフックに新規顧客獲得してリピートにつなげる",
+      "source": "食品新聞 WEB版",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS1RwWVVsTU1laEE4TFROUTA4M3ZhWUZvNEJpM0ZKeVFqYnpfcTZxX1VYejhuQkxsV0xMaFhkSGgyUjVrODliZzFNd3paOWkwT3o3YnV5X1BBSDQ5dDZRVGxIbnNNa3M1SU41cW82NDlMcE9WSVBqbVl0MXBUWDNRTDNaalBIUVdQOEFQRWFlU1k2dHAxbTBjZk5nY3U1dw?oc=5",
+      "publishedAt": "2026-11-21T11:33:50Z",
+      "query": "紅茶"
+    },
+    {
       "title": "ディズニー＆ピクサー限定ラベル！ 午後の紅茶アップルティーソーダが9年ぶり復活 12・8～（ラジトピ ラジオ関西トピックス）",
       "source": "Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zWHgxUEJNZHBheWV0VUhXRk9XcUxPeGg2YUkyV2E4Ny04aFhFTjVtc3dIYTJEQU16Y0h0SUREdVJEOTFPM0F6RkM5aS1tZ3BIODBWRDZVc1RvQ0JWa0k4ck15QVFpTEZ2a2xvRnRPV2tMUmtjaWJNSWRZc3pTaG8?oc=5",
@@ -148,13 +190,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BSG5JbUN5QTQweTZTcnY3OV9pMFQyYmd2WFJGRmphcVdEVy1fWS0wMWdBNExaaXZhTldtTWxzSFc3SUsyRXZNcHFFWHY0eE50ejhabHpiZTVEb3ZCUHpXV3phRzFaUmRJM2g4Y0I1VVpkb0sxRXBZ0gF8QVVfeXFMUDh3ZlBnQTJqaDNIZXR5cE9qNjdRV29TQjV2UE5VQ0NHbjgtWWVKTGtUbnhvNVhwenhUYjFNRzVPZkNSVG9BeEpNUWpreFhNQlhHcTgwc0hQZUpJNi1ycUo0VWRxSjhpQkF3ZXdTTTQzSXNrSHdwM2hSdF9idA?oc=5",
       "publishedAt": "2026-11-21T08:00:00Z",
       "query": "アフタヌーンティー"
-    },
-    {
-      "title": "9年ぶりに復活！ 午後ティーの「アップルティーソーダ」今度はディズニーラベル",
-      "source": "ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01Vy1lM3d4a0RmenhFTkVfem1KRjcyOGpzZXA0MGJVOWFYOF8zYVV1UmcyWHN5bTl4TkhPcFJwV01zblBaV3ZfMk9paEVZdmJaQkQzRg?oc=5",
-      "publishedAt": "2026-11-21T07:30:00Z",
-      "query": "紅茶"
     },
     {
       "title": "「出産前にゆっくり話せてよかったー」松島花、榮倉奈々とアフタヌーンティー「たくさん質問しちゃった」 (スポーツ報知)",
@@ -171,45 +206,10 @@
       "query": "アフタヌーンティー"
     },
     {
-      "title": "《キリン午後の紅茶》ディズニーで人気の『アップルティーソーダ』が期間限定で発売！広報に聞いた“味”と“レギュラー化”の可能性",
-      "source": "週刊女性PRIME",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3VUszdXVyeTA0QnY3YnhpQk9teXBGbE1sMXZlZUN2cHFPb1U3bklMU2lHSWhHZXE5bmlrVXpFU0NiZElRUXNma1lxdFdSUTdJRXp0QQ?oc=5",
-      "publishedAt": "2026-11-21T05:29:30Z",
-      "query": "紅茶"
-    },
-    {
-      "title": "【スタバ】新作の“アールグレイストロベリースコーン”をテイクアウト♡紅茶とベリーが絶妙です",
-      "source": "LEE",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3NEE4eHNSOGF1eUdmOFdjRmtIdXZPWV9yS2toX2E5Ni12RlpHcGhEWDRpWWpCa2hyaTlvQlRxcFVvWEpDbDQwWWZ2ckFkQU5JdlE?oc=5",
-      "publishedAt": "2026-11-21T04:47:30Z",
-      "query": "紅茶"
-    },
-    {
       "title": "【クリスマス2026】いちごのアフタヌーンティー+カフェフリー",
       "source": "オズモール",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12TDVtQUl3MGlYNjVlSks1WmYyeE5hY0hhd1ZPc0NtbGZpNjRqSDF3Y2s0QVd0T0VJZEg0UzlacDFIYWhzMm9RTUZKbmZ5bXJHREQ3akxESmhzN2JFNVRTLVpsSEc?oc=5",
       "publishedAt": "2026-11-21T04:24:41Z",
-      "query": "アフタヌーンティー"
-    },
-    {
-      "title": "グランド ハイアット 東京、クリスマスアフタヌーンティーを提供 12月1日から",
-      "source": "千葉テレビ放送株式会社",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLTVZUb3l5MWlzRWI5WjJyVnI3M1EtaS1HSkZjM0Q0Nl9oVVpyeF8wTlVfaUJDWVlTTkVYeS0yalphYXFWakxYMDg3MU9Bd3Nua0JZeWlUbk1rOVd2YmJR?oc=5",
-      "publishedAt": "2026-11-21T01:32:25Z",
-      "query": "アフタヌーンティー"
-    },
-    {
-      "title": "「同じ味ってこと!?」ディズニーで“超人気ドリンク”が全国限定販売、広報に聞いた“味”と“レギュラー化”の可能性（週刊女性PRIME）",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rWWVGLXBaR2Q4c3NObFVMVmlQZVlHMEtYek5zRW5FMEdhTnBxdDNHWG4tbjFjeGViYkZPcmljNXJNN3FDZzZSNmdiU3JXU0hHcjc5R1hJcEQ5WnROMVpDajUtNncwd1FjU0NDN3hHSWg3bzIxZkZNNE1uazJMRE0?oc=5",
-      "publishedAt": "2026-11-21T01:00:33Z",
-      "query": "紅茶"
-    },
-    {
-      "title": "すべて5,000円以下！サンタやスノーマンのスイーツがかわいい東京のクリスマスアフタヌーンティー5選",
-      "source": "オズモール",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lMjIzSGpZX2xNNzhMRjRnQ0swZENmbDIyWkt1R1FyNElwWk1ES0U5ck15X2NPQTFwbnMzVGJ6WENKR1VsWGlfN2ctMHJ2SFZYNTF2aEVaSmlnbHRIQi0tUHdTSEhMZHhMdS1qVnBJWGtjam9QN3gw?oc=5",
-      "publishedAt": "2026-11-21T01:00:00Z",
       "query": "アフタヌーンティー"
     },
     {
@@ -231,6 +231,13 @@
       "source": "西日本新聞me",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iV1RHMHMwTlRMc3B2Vk14dGUwbGhIUFd0d0xNNmN5WGQ0X3A2Z3pmZExzaFhfYVR3RklyTEtXSVh3WWZCZG56engxZHpoY0JialZ2T0FR?oc=5",
       "publishedAt": "2026-11-20T21:00:00Z",
+      "query": "和紅茶"
+    },
+    {
+      "title": "おとなの週末：ゴンチャ冬限定ドリンク「あまおう」シリーズが帰ってきた！新商品ジェラッティーとはなんだ",
+      "source": "毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1S0JKMWJVT3NOQ3NWMnJ5cjZ5WVBHclRkZm9EUkVMMVdIaTJxU2JXWDdFcjd1a0h2bXhnX0RiVmgxdFJ6MDhyVG5YU2tGQ0tMdlJtQnEzeXBUTFhIYWVVajhaT3JFVXlC?oc=5",
+      "publishedAt": "2026-11-20T05:43:00Z",
       "query": "和紅茶"
     },
     {
@@ -273,13 +280,6 @@
       "source": "ファッションプレス",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaVk5qcENjMGlvZFdlU0FHcEhlbGt2YUFJamhKSFZ0RlYzS3F5UmxCeUFrOVB6UWpEYl9VeGpJRnRWYU9NdVBoUWx3Tm81TDVvNzZv?oc=5",
       "publishedAt": "2026-11-18T03:00:00Z",
-      "query": "和紅茶"
-    },
-    {
-      "title": "【ゴンチャ】“あまおう”づくしの冬限定メニュー登場 新作ジェラッティーや和紅茶も仲間入り (2026年11月18日掲載)",
-      "source": "ライブドアニュース",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WaC04UDdyai10NGxxTkFyc2h0dzNtcHl0LXQ4dWNfYnkwZHh3a1B3Wm1BLWt0ZEZQX19kcVVVQXJvcmZFTmU3dDJOdWoyVmlLeU9SVjBpS1lsMUp6TGc?oc=5",
-      "publishedAt": "2026-11-18T02:54:53Z",
       "query": "和紅茶"
     }
   ]
